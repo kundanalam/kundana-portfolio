@@ -2,7 +2,7 @@
 
 A personal portfolio website built to showcase my work as a Data Analyst & Web Developer.
 
-Live site:** kundanalamportfolio.netlify.app**
+Live site:** https://kundana-portfolio.vercel.app/**
 
 
 **About**
